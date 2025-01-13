@@ -13,3 +13,4 @@ In this project, we make use of the embedded Watson AI libraries, to create an a
 ### Task 7: Incorporate Error handling
 ### Task 8: Run static code analysis
 
+![sentiment analysis application Watson NLP library-capture](https://github.com/user-attachments/assets/fd5f06a3-e0f8-4b1e-a49d-194d4d4c0564)
