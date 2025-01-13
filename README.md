@@ -9,12 +9,12 @@ The NLP library includes functions for sentiment analysis, emotion detection, te
 
 ## Tasks and objectives:
 #### Task 1: Clone the project repository
-### Task 2: Create a sentiment analysis application using Watson NLP library
-### Task 3: Format the output of the application
-### Task 4: Package the application
-### Task 5: Run Unit tests 
-### Task 6: Deploy as web application using Flask
-### Task 7: Incorporate Error handling
-### Task 8: Run static code analysis
+####  Task 2: Create a sentiment analysis application using Watson NLP library
+####  Task 3: Format the output of the application
+####  Task 4: Package the application
+#### Task 5: Run Unit tests 
+#### Task 6: Deploy as web application using Flask
+#### Task 7: Incorporate Error handling
+#### Task 8: Run static code analysis
 
 ![sentiment analysis application Watson NLP library-capture](https://github.com/user-attachments/assets/fd5f06a3-e0f8-4b1e-a49d-194d4d4c0564)
